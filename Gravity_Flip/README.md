@@ -15,16 +15,16 @@ Output n integer numbers separated by spaces, where the i-th number is the amoun
 
 Sample test(s)
 
-input
+input:   
 4
-3 2 1 2
-output
+3 2 1 2   
+output:   
 1 2 2 3 
 
-input
+input:   
 3
-2 3 8
-output
+2 3 8   
+output:   
 2 3 8 
 
 
