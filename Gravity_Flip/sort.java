@@ -1,9 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-
-public class sort{
-
+public class sort {
         public static String[] split(String[] nums, String option){
                 int length = nums.length;
                 String[] ret;
@@ -14,7 +12,7 @@ public class sort{
                         }
                 }
 
-                else { //if (option.equals("second")){
+                else {
                         ret = new String[length-(length/2)];
                         for (int i = 0; i < (length-(length/2)); i++){
                                 ret[i] = nums[(length/2) + i];
@@ -92,7 +90,3 @@ public class sort{
 
         }
 }
-                                                                                             94,1          Bot
-
-
-
