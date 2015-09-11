@@ -1,3 +1,5 @@
+# Problem copied from CodeForces:
+
 Mr. Kitayuta has kindly given you a string s consisting of lowercase English letters. You are asked to insert exactly one lowercase English letter into s to make it a palindrome. A palindrome is a string that reads the same forward and backward. For example, "noon", "testset" and "a" are all palindromes, while "test" and "kitayuta" are not.
 
 You can choose any lowercase English letter, and insert it to any position of s, possibly to the beginning or the end of s. You have to insert a letter even if the given string is already a palindrome.
@@ -13,16 +15,18 @@ If it is possible to turn s into a palindrome by inserting one lowercase English
 Sample test(s)
 
 input:
-revive
+revive     
 output:
 reviver
 
 input:
-ee
+ee     
 output:
 eye
 
 input:
-kitayuta
+kitayuta     
 output:
 NA
+
+Link: http://codeforces.com/problemset/problem/505/A
