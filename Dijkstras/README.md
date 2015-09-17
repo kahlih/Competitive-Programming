@@ -1,8 +1,5 @@
-C. Dijkstra?
-time limit per test1 second
-memory limit per test64 megabytes
-inputstandard input
-outputstandard output
+#Dijkstra?
+
 You are given a weighted undirected graph. The vertices are enumerated from 1 to n. Your task is to find the shortest path between the vertex 1 and the vertex n.
 
 Input
@@ -12,3 +9,18 @@ It is possible that the graph has loops and multiple edges between pair of verti
 
 Output
 Write the only integer -1 in case of no path. Write the shortest path in opposite case. If there are many solutions, print any of them.
+
+input     
+5 6     
+1 2 2     
+2 5 5     
+2 3 4     
+1 4 1     
+4 3 3     
+3 5 1     
+     
+output     
+1 4 3 5 
+
+
+Link: http://codeforces.com/problemset/problem/20/C
