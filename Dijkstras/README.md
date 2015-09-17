@@ -24,3 +24,6 @@ output
 
 
 Link: http://codeforces.com/problemset/problem/20/C
+
+
+NOTE: This solution does not pass Test Case #31. I get a Memory limit exceeded error
